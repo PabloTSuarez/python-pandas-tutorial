@@ -8,13 +8,13 @@ Los ejercicios en este tutorial han sido creados en aproximadamente 60 horas de 
 
 En este tutorial, veremos las funciones más importantes y básicas proporcionadas por Pandas que te ayudarán a trabajar con datos en machine learning. A continuación, algunos de los temas que se cubrirán en este tutorial son:
 
-| Ejercicio     | Descripción del tema                                                                                                    |
-|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ejercicio      | Descripción del tema                                                                                                    |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 |Instalar Pandas | Estos ejercicios cubren cómo instalar Pandas, cómo importar la biblioteca Pandas en un archivo de Python, y cómo crear tu primer script en Python.          |
-|DataSets       | Estos ejercicios explican qué son los conjuntos de datos y cómo trabajar con ellos.                                                                                |
-|Series         | Estos ejercicios explican qué son las series en Pandas y cómo usarlas.                                                                    |
-|DataFrames     | Estos ejercicios explican cómo crear un DataFrame de información y qué funciones se pueden usar para trabajar con ellos.                                    |
-|Clean DataSets | Esta clase cubre qué es la limpieza de datos, las funciones que Pandas ofrece para limpiar un DataSet, y las mejores prácticas para limpiar un DataSet. |
+|DataSets        | Estos ejercicios explican qué son los conjuntos de datos y cómo trabajar con ellos.                                                                                |
+|Series          | Estos ejercicios explican qué son las series en Pandas y cómo usarlas.                                                                    |
+|DataFrames      | Estos ejercicios explican cómo crear un DataFrame de información y qué funciones se pueden usar para trabajar con ellos.                                    |
+|Clean DataSets  | Esta clase cubre qué es la limpieza de datos, las funciones que Pandas ofrece para limpiar un DataSet, y las mejores prácticas para limpiar un DataSet. |
 
 ## Tutorial de Instalación
 
